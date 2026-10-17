@@ -1,7 +1,7 @@
 # vinodhini-jayaseelen.github.io
 Stochastic Analysis, rough volatility & quantum computing for derivative pricing
 
-My current independent research focuses on **Quantum Monte Carlo and Quantum Amplitude Estimation for derivative pricing**. building on my previous work in rough volatility, fractional Kolmogorov equations, Monte Carlo simulation and scientific Machine Learning (Sci ML).  
+My current independent research focuses on **Quantum Monte Carlo and Quantum Amplitude Estimation for derivative pricing**, building on my previous work in rough volatility, fractional Kolmogorov equations, Monte Carlo simulation and scientific Machine Learning (Sci ML).  
 
 ---
 
