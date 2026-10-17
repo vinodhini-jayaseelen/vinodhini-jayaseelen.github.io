@@ -15,7 +15,7 @@ I am exploring how quantum algorithms can be applied to expectation estimation p
 - Quantum methods for derivative pricing
 - Stochastic-volatility models
 
-My initial work would focus on simple derivative-pricing problems before moving toward stochastic-volatility and rough-volatility models. 
+My initial work focuses on simple derivative-pricing problems before moving toward stochastic-volatility and rough-volatility models. 
 
 ---
 
